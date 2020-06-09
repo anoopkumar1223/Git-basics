@@ -3,3 +3,10 @@ This is the first line entered by anoop in master branch in local repo.
 This is the second line entered by anoop in new branch in local repo and then merged with master branch.
 
 This is the third line entered by anoop in new branch in remote or github repo and merged with master branch.
+
+Steps :
+1. opened anoops repo
+2. forked the repo to my local repo.
+3. now I am modifying the page.
+4. I will commit changes , in my repo.
+5. i will send pull request to anoop that i have modified page which can be merged with your master branch project.
