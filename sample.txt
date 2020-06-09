@@ -1,3 +1,5 @@
 This is the first line entered by anoop in master branch in local repo.
 
 This is the second line entered by anoop in new branch in local repo and then merged with master branch.
+
+This is the third line entered by anoop in new branch in remote or github repo and merged with master branch.
